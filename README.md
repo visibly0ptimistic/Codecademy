@@ -1,1 +1,1 @@
-# Codecademy
+# Code Samples
