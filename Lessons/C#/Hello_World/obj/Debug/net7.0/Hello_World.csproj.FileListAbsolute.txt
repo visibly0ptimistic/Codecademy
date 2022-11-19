@@ -1,0 +1,15 @@
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/bin/Debug/net7.0/Hello_World
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/bin/Debug/net7.0/Hello_World.deps.json
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/bin/Debug/net7.0/Hello_World.runtimeconfig.json
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/bin/Debug/net7.0/Hello_World.dll
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/bin/Debug/net7.0/Hello_World.pdb
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/obj/Debug/net7.0/Hello_World.csproj.AssemblyReference.cache
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/obj/Debug/net7.0/Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/obj/Debug/net7.0/Hello_World.AssemblyInfoInputs.cache
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/obj/Debug/net7.0/Hello_World.AssemblyInfo.cs
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/obj/Debug/net7.0/Hello_World.csproj.CoreCompileInputs.cache
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/obj/Debug/net7.0/Hello_World.dll
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/obj/Debug/net7.0/refint/Hello_World.dll
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/obj/Debug/net7.0/Hello_World.pdb
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/obj/Debug/net7.0/Hello_World.genruntimeconfig.cache
+/Applications/Code/Codecademy/Lessons/C#/Hello_World/obj/Debug/net7.0/ref/Hello_World.dll
