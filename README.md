@@ -1,4 +1,4 @@
-# Code Samples
+# [Code Samples](https://github.com/visibly0ptimistic/Codecademy)
 
 [Lessons](./Lessons/)
 
@@ -10,4 +10,3 @@
 1. [Python](./Projects/Python/)
 
 
-https://github.com/visibly0ptimistic/Codecademy
