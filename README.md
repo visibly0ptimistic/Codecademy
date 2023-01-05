@@ -1,13 +1,13 @@
 # [Code Samples](https://github.com/visibly0ptimistic/Codecademy)
 
-[Lessons](./Lessons/)
+[Lessons](https://github.com/visibly0ptimistic/Codecademy/tree/main/Lessons)
 
-1. [CS_Python](./Lessons/CS_Python/)
-2. [Learn_PHP](./Lessons/Learn_PHP/)
+1. [CS_Python](https://github.com/visibly0ptimistic/Codecademy/tree/main/Lessons/CS_Python)
+2. [Learn_PHP](https://github.com/visibly0ptimistic/Codecademy/tree/main/Lessons/Learn_PHP)
 
-[Projects](./Projects/)
+[Projects](https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects)
 
-1. [Python](./Projects/Python/)
+1. [Python](https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects/Python)
 
-2. [Build Websites](./Projects/Build%20Websites/)
-    a. [Dasmoto's Crafts](./Projects/Build%20Websites/Dasmoto's%20Crafts/)
+2. [Build Websites](https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects/Build%20Websites)
+    - [Dasmoto's Crafts](https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects/Build%20Websites/Dasmoto's%20Crafts)
