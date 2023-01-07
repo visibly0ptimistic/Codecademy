@@ -1,12 +1,5 @@
 # [Code Samples](https://github.com/visibly0ptimistic/Codecademy)
 
-Guide
-
-1. Code Repository
-    - Live Webpage
-
----
-
 [Lessons](https://github.com/visibly0ptimistic/Codecademy/tree/main/Lessons)
 
 1. [Computer Science with Python](https://github.com/visibly0ptimistic/Codecademy/tree/main/Lessons/CS_Python)
@@ -17,6 +10,7 @@ Guide
 1. [Python](https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects/Python)
 
 2. [Build Websites](https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects/Build%20Websites)
+    - View the live webpage
     - [Dasmoto's Crafts](https://visibly0ptimistic.github.io/Codecademy/Projects/Build%20Websites/Dasmoto's%20Crafts)
     - [Excursion](https://visibly0ptimistic.github.io/Codecademy/Projects/Build%20Websites/Excursion)
     - [Flexbox: To-Do App](https://visibly0ptimistic.github.io/Codecademy/Projects/Build%20Websites/Flexbox:%20To-Do%20App)
