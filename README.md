@@ -1,9 +1,16 @@
 # [Code Samples](https://github.com/visibly0ptimistic/Codecademy)
 
+Guide
+
+1. Code Repository
+    - Live Webpage
+
+---
+
 [Lessons](https://github.com/visibly0ptimistic/Codecademy/tree/main/Lessons)
 
-1. [CS_Python](https://github.com/visibly0ptimistic/Codecademy/tree/main/Lessons/CS_Python)
-2. [Learn_PHP](https://github.com/visibly0ptimistic/Codecademy/tree/main/Lessons/Learn_PHP)
+1. [Computer Science with Python](https://github.com/visibly0ptimistic/Codecademy/tree/main/Lessons/CS_Python)
+2. [Learn PHP](https://github.com/visibly0ptimistic/Codecademy/tree/main/Lessons/Learn_PHP)
 
 [Projects](https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects)
 
