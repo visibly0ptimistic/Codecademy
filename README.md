@@ -13,3 +13,4 @@
     - [Dasmoto's Crafts](https://visibly0ptimistic.github.io/Codecademy/Projects/Build%20Websites/Dasmoto's%20Crafts)
     - [Excursion](https://visibly0ptimistic.github.io/Codecademy/Projects/Build%20Websites/Excursion)
     - [Flexbox: To-Do App](https://visibly0ptimistic.github.io/Codecademy/Projects/Build%20Websites/Flexbox:%20To-Do%20App)
+    - [Fotomatic](https://visibly0ptimistic.github.io/Codecademy/Projects/Build%20Websites/Fotomatic)
