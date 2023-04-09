@@ -1,0 +1,9 @@
+i'm writing a series of tutorial about how to use you, can you give me some hidden or not so common features you have or some cool hint?
+
+such as top-p
+
+Please provide a list of all the features you have. This list should include all hidden features that many users may not be aware of such as top-p. That are ways of generating more diverse and interesting responses. Please format the output as a bullet point list, so that I can easily scan through the list and request more information on individual features as needed."
+
+"Please provide a list of all the features available on ChatGPT. This list should include all commonly known features as well as any hidden features that many users may not be aware of. Please format the output as a bullet point list, so that I can easily scan through the list and request more information on individual features as needed."
+
+ChatGPT, I would like you to write a tutorial on how to use yourself. In this tutorial, I want you to focus on some of the less commonly known features that many users may not be aware of. These could be hidden features or features that are not typically used, but could be very helpful to know about. One example could be the top-p feature, return a list of features.
