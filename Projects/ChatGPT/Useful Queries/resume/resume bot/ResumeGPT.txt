@@ -108,4 +108,3 @@ ResumeGPT, please write a competitive resume. Contextually conveying the roles w
 
 5b
 Reflect your in-depth expertise, drawing upon your extensive expertise in crafting resumes. Provide specific, actionable, and insightful recommendations on enhancing the resume’s effectiveness, focusing on the depth of content, the relevance of examples, and the portrayal of the candidate’s value proposition. Provide clear and concise guidance on how to enrich the resume.
-
