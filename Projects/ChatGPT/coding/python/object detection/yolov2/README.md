@@ -3,7 +3,8 @@
 This repository contains scripts and resources for performing object detection using the YOLOv3 model with OpenCV. It includes pre-trained weights, configuration files, class labels, and a script to process and detect objects in images from a specified directory.
 
 ## Directory Structure
-
+    
+    ```sh
 .
 ├── coco.names         # Class labels for the COCO dataset
 ├── detect.py          # Python script for object detection
@@ -13,6 +14,7 @@ This repository contains scripts and resources for performing object detection u
 │   └── ...            # Additional image files
 ├── yolov3.cfg         # YOLOv3 configuration file
 └── yolov3.weights     # YOLOv3 pre-trained weights
+    ```
 
 ## Requirements
 
