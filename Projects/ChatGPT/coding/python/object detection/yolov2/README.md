@@ -19,6 +19,7 @@ This repository contains scripts and resources for performing object detection u
 2. Ensure that the `yolov3.weights`, `yolov3.cfg`, and `coco.names` files are present in the directory.
 
 Download the necessary files:
+
 - yolov3.weights: <https://pjreddie.com/media/files/yolov3.weights>
 - yolov3.cfg: <https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg>
 - coco.names: <https://github.com/pjreddie/darknet/blob/master/data/coco.names>
