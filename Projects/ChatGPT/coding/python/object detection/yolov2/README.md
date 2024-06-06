@@ -2,19 +2,6 @@
 
 This repository contains scripts and resources for performing object detection using the YOLOv3 model with OpenCV. It includes pre-trained weights, configuration files, class labels, and a script to process and detect objects in images from a specified directory.
 
-## Directory Structure
-    
-    ```sh
-├── coco.names         # Class labels for the COCO dataset
-├── detect.py          # Python script for object detection
-├── images/            # Directory containing input images
-│   ├── image1.jpeg    # Example image file
-│   ├── image2.jpg     # Example image file
-│   └── ...            # Additional image files
-├── yolov3.cfg         # YOLOv3 configuration file
-└── yolov3.weights     # YOLOv3 pre-trained weights
-    ```
-
 ## Requirements
 
 - Python 3.x
@@ -26,7 +13,7 @@ This repository contains scripts and resources for performing object detection u
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-repo/yolov3-object-detection.git
+    git clone https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects/ChatGPT/coding/python/object%20detection/yolov2
     cd yolov3-object-detection
     ```
 
