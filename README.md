@@ -7,7 +7,7 @@
 
 [Projects](https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects)
 
-1. [Object Detection with YOLOv3](https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects/ChatGPT/coding/python/object%20detection/yolov2)
+1. [Object Detection with YOLOv3](https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects/Prompt%20Engineering/coding/python/object%20detection/yolov3)
 
 2. [Python](https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects/Python)
 
