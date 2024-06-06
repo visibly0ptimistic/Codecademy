@@ -10,20 +10,13 @@ This repository contains scripts and resources for performing object detection u
 
 ## Setup
 
-1. Clone the repository:
-
-    ```sh
-    git clone https://github.com/visibly0ptimistic/Codecademy/tree/main/Projects/ChatGPT/coding/python/object%20detection/yolov2
-    cd yolov3-object-detection
-    ```
-
-2. Install the required Python packages:
+1. Install the required Python packages:
 
     ```sh
     pip install opencv-python numpy
     ```
 
-3. Ensure that the `yolov3.weights`, `yolov3.cfg`, and `coco.names` files are present in the directory.
+2. Ensure that the `yolov3.weights`, `yolov3.cfg`, and `coco.names` files are present in the directory.
 
 Download the necessary files:
 yolov3.weights: <https://pjreddie.com/media/files/yolov3.weights>
