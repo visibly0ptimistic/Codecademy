@@ -5,14 +5,14 @@ This repository contains scripts and resources for performing object detection u
 ## Directory Structure
 
 .
-├── coco.names # Class labels for the COCO dataset
-├── detect.py # Python script for object detection
-├── images/ # Directory containing input images
-│ ├── image1.jpeg # Example image file
-│ ├── image2.jpg # Example image file
-│ └── ... # Additional image files
-├── yolov3.cfg # YOLOv3 configuration file
-└── yolov3.weights # YOLOv3 pre-trained weights
+├── coco.names         # Class labels for the COCO dataset
+├── detect.py          # Python script for object detection
+├── images/            # Directory containing input images
+│   ├── image1.jpeg    # Example image file
+│   ├── image2.jpg     # Example image file
+│   └── ...            # Additional image files
+├── yolov3.cfg         # YOLOv3 configuration file
+└── yolov3.weights     # YOLOv3 pre-trained weights
 
 ## Requirements
 
