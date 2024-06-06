@@ -5,7 +5,6 @@ This repository contains scripts and resources for performing object detection u
 ## Directory Structure
     
     ```sh
-.
 ├── coco.names         # Class labels for the COCO dataset
 ├── detect.py          # Python script for object detection
 ├── images/            # Directory containing input images
